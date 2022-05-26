@@ -1,12 +1,14 @@
-﻿Console.WriteLine("Введите первое число: ");
+﻿Console.WriteLine("Print the first number: ");
 int a = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Введите второе число: ");
+Console.WriteLine("Print the second number: ");
 int b = int.Parse(Console.ReadLine());
 
 if (a > b){
-    Console.WriteLine("Число a больше b");
+    Console.Write("Max number is ");
+    Console.Write(a);
 } 
 else{
-    Console.WriteLine("Число b больше a");
+    Console.Write("Max number is ");
+    Console.Write(b);
 }
