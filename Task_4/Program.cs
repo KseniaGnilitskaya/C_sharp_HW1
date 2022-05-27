@@ -1,3 +1,3 @@
-﻿Console.WriteLine("Print the number");
+﻿Console.Write("Print the number: ");
 int number = int.Parse(Console.ReadLine());
 
