@@ -1,10 +1,10 @@
-﻿Console.WriteLine("Print the first number: ");
+﻿Console.WriteLine("Type the first number: ");
 int a = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Print the second number: ");
+Console.WriteLine("Type the second number: ");
 int b = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Print the third number: ");
+Console.WriteLine("Type the third number: ");
 int c = int.Parse(Console.ReadLine());
 
 int max = a;
