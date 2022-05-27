@@ -1,7 +1,7 @@
-﻿Console.WriteLine("Print the first number: ");
+﻿Console.WriteLine("Type the first number: ");
 int a = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Print the second number: ");
+Console.WriteLine("Type the second number: ");
 int b = int.Parse(Console.ReadLine());
 
 if (a > b){
