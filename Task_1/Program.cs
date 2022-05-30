@@ -7,7 +7,7 @@ int b = int.Parse(Console.ReadLine());
 if (a > b){
     Console.Write("Max number is ");
     Console.Write(a);
-} 
+}
 else{
     Console.Write("Max number is ");
     Console.Write(b);
